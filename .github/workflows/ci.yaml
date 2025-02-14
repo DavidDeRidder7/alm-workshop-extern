@@ -5,6 +5,7 @@ on:
     branches:
       - "**" # LET THE PIPELINE TRIGGER ON A PUSH TO ALL BRANCHES
 
+#test
 env:
   CONTAINER_REPOSITORY: quay.io/DavidDeRidder7 # PUT YOUR OWN USERNAME HERE
   CONTAINER_IMAGE: alm-workshop
